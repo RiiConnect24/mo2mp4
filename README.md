@@ -3,6 +3,8 @@ This is a hacky solution to convert Wii Mobiclip .mo files to .mp4 until if and 
 
 The Wii Mobiclip SDK can view Mobiclip files using MoSimulator, however there isn't a way to get great recordings that way. No one wants to record that with OBS.
 
+[https://github.com/RiiConnect24/mobiclip-conversion-tool/releases/latest mobiclip-conversion-tool] can do the opposite of this tool, and convert .mp4 to .mo.
+
 ## Process
 
 This is how the conversion from .mo to .mp4 happens:
@@ -22,3 +24,11 @@ copy C:\Kirby\USA\Anime01.mo . && MobiclipDecoder.exe && del Anime01.mo
 copy C:\Kirby\USA\Anime02.mo . && MobiclipDecoder.exe && del Anime02.mo
 copy C:\Kirby\USA\Anime03.mo . && MobiclipDecoder.exe && del Anime03.mo
 ```
+
+## Compiling
+
+I have no idea why you would want to compile this, but just replace Form1.cs in [https://github.com/Gericom/MobiclipDecoder/tree/newer_stuff Gericom's MobiclipDecoder].
+
+## License
+
+I don't think MobiclipDecoder has a license, so I don't really have a code license for this.
