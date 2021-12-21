@@ -3,7 +3,9 @@ This is a hacky solution to convert Wii Mobiclip .mo files to .mp4 until if and 
 
 The Wii Mobiclip SDK can view Mobiclip files using MoSimulator, however there isn't a way to get great recordings that way. No one wants to record that with OBS.
 
-[https://github.com/RiiConnect24/mobiclip-conversion-tool/releases/latest mobiclip-conversion-tool] can do the opposite of this tool, and convert .mp4 to .mo.
+[https://github.com/RiiConnect24/mobiclip-conversion-tool/releases/latest Mobiclip Conversion Tool] can do the opposite of this tool, and convert .mp4 to .mo.
+
+To use this tool, you need to have the Mobiclip SDK and a license. The SDK can be found on MarioCube, and the license can be obtained [on this page](https://developer.nintendo.com/group/development/getting-started/3ds/middleware/mobiclip-for-3ds) if you have a Nintendo Developer Account.
 
 ## Process
 
