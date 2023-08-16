@@ -1,5 +1,5 @@
 # mo2mp4
-This is a hacky solution to convert Wii Mobiclip .mo files to .mp4 until if and when ffmpeg can read them. Despite its name, While ffmpeg can convert DS .mods and 3DS .moflex files to .mp4, it cannot handle Wii .mo files (nor can the predecessor, Gericom's MobiConverter, which can only handle 3DS .moflex files). This tool uses a combination of the Wii Mobiclip SDK and Gericom's MobiclipDecoder in order to convert to .mp4. (And it's not pretty at all...)
+This is a hacky solution to convert Wii Mobiclip .mo files to .mp4 until if and when ffmpeg can read them. Despite its name, While ffmpeg can convert DS .mods and 3DS .moflex files to .mp4, it cannot handle Wii .mo files. This tool uses a combination of the Wii Mobiclip SDK and Gericom's MobiclipDecoder in order to convert to .mp4. (And it's not pretty at all...)
 
 The Wii Mobiclip SDK can view Mobiclip files using MoSimulator, however there isn't a way to get great recordings that way. No one wants to record that with OBS.
 
