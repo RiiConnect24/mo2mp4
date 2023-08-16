@@ -29,7 +29,7 @@ copy C:\Kirby\USA\Anime03.mo . && MobiclipDecoder.exe && del Anime03.mo
 
 ## Compiling
 
-I have no idea why you would want to compile this, but just replace Form1.cs in [https://github.com/Gericom/MobiclipDecoder/tree/newer_stuff Gericom's MobiclipDecoder].
+I have no idea why you would want to compile this, but just replace Form1.cs in [Gericom's MobiclipDecoder](https://github.com/Gericom/MobiclipDecoder/tree/newer_stuff).
 
 ## License
 
